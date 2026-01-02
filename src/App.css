@@ -1,4 +1,13 @@
-#root {
+/* Index page custom styles for animation delays */
+.index-delay-300 {
+  animation-delay: 0.3s;
+}
+.index-delay-500 {
+  animation-delay: 0.5s;
+}
+.index-delay-1000 {
+  animation-delay: 1s;
+}#root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;

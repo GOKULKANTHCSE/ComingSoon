@@ -139,9 +139,9 @@ const Index = () => {
 
           {/* Decorative Floating Elements */}
           <div className="absolute top-24 right-24 w-3 h-3 rounded-full bg-background/30 animate-pulse" />
-          <div className="absolute bottom-40 right-40 w-4 h-4 rounded-full bg-background/20 animate-pulse" style={{ animationDelay: '0.5s' }} />
-          <div className="absolute top-1/3 right-1/3 w-2 h-2 rounded-full bg-background/25 animate-pulse" style={{ animationDelay: '1s' }} />
-          <div className="absolute top-1/2 right-16 w-5 h-5 rounded-full bg-background/15 animate-pulse" style={{ animationDelay: '0.3s' }} />
+          <div className="absolute bottom-40 right-40 w-4 h-4 rounded-full bg-background/20 animate-pulse index-delay-500" />
+          <div className="absolute top-1/3 right-1/3 w-2 h-2 rounded-full bg-background/25 animate-pulse index-delay-1000" />
+          <div className="absolute top-1/2 right-16 w-5 h-5 rounded-full bg-background/15 animate-pulse index-delay-300" />
         </div>
 
         {/* Mobile Bottom Curved Section */}
