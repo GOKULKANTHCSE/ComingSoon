@@ -1,8 +1,8 @@
 import { Instagram, Facebook, Leaf } from "lucide-react";
 import { Linkedin } from "lucide-react";
-import liroLogo from "@/assets/SIDE LOGO.png";
+import liroLogo from "@/assets/SIDE LOGO.webp";
 import { Button } from "@/components/ui/button";
-import heroIllustration from "@/assets/Creation process-cuate.png";
+import heroIllustration from "@/assets/Creation process-cuate.webp";
 
 // WhatsApp icon component
 const WhatsAppIcon = ({ className }: { className?: string }) => (
